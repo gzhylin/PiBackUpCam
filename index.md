@@ -12,8 +12,12 @@ Below is some information on my personal project. Idea behind the project is to 
 
 ### Getting started:
 First of all, after getting my first Raspberry Pi I got all excited to play around with it and create something cool. After watching a lot of videos on the YouTube I decide to make something with a camera. In particular [this project]( http://jeremyblythe.blogspot.co.uk/2013/03/raspberry-pi-parking-camera-with.html) got my attention, and I decide use it as a base. 
-	First problem I faced was how to stream live video, there are hundreds of ways you can do it, but the one I chose was to use [Pygame]( https://www.pygame.org) Library, due to a simple implementation of a video streaming. 
-I used this [tutorial]( http://www.pygame.org/docs/tut/CameraIntro.html) on a video streaming. 
+	
+- First problem I faced was how to stream live video, there are hundreds of ways you can do it, but the one I chose was to use [Pygame]( https://www.pygame.org) Library, due to a simple implementation of a video streaming. I used this [tutorial]( http://www.pygame.org/docs/tut/CameraIntro.html) on a video streaming. 
+- Second problem is a distance sensor, first I was going to use IR sensor, but it has small range and only option I had was ultrasound distance sensor. Here is a good [tutorial]( https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/) on how to setup a distance sensor.
+
+![image](IMG_0581.jpg)
+![image](IMG_0582.jpg)
 
 
 
