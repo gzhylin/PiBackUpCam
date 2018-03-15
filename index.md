@@ -19,6 +19,14 @@ First of all, after getting my first Raspberry Pi I got all excited to play arou
 ![image](IMG_0581.jpg)
 ![image](IMG_0582.jpg)
 
+### First attempt to make things working: 
+After installing all the libraries and the updates for the Sensor and Pygame, I wrote this small program in Python just to try If the whole thing is going to work or not. Here is the code:
+```markdown
+
+code.insert = here;
+
+```
+
 
 
 
